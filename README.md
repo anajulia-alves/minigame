@@ -20,16 +20,6 @@ Este é um projeto de mini jogo em Java, criado como prática de programação o
 - O personagem **não se movimenta para a esquerda** ao pressionar a tecla correspondente.
 - Alguns bugs visuais podem ocorrer com sprites.
 
-## Como Rodar
-
-1. Abra o projeto em uma IDE que suporte Java (como Eclipse ou IntelliJ).
-2. Compile e rode o arquivo principal (`Main.java` ou equivalente).
-3. Use as teclas **cima/baixo/direita** para movimentar o personagem e a tecla de disparo para atirar.
-
-## Contribuições
-
-Este projeto está em desenvolvimento. Se você quiser ajudar a corrigir os erros ou adicionar funcionalidades, fique à vontade para abrir issues ou enviar pull requests.
-
 ## Licença
 
 Este projeto é apenas para fins de estudo e prática.
